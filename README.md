@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! 👋
+
+My name is Tim Uruski, my pronouns are he/him. I’m a programmer living in [Inglewood, Calgary, Alberta](https://en.wikipedia.org/wiki/Inglewood,_Calgary). During the day I work as a developer for [Clio](http://www.clio.com/). I occasionally blog at [tim.uru.ski](https://tim.uru.ski) and I spend my free time reading about science and mathematics, cooking and baking bread, and [boxing](https://sweatscienceboxing.com). I co-organized the local Ruby developers group [YYC Ruby](https://www.meetup.com/YYC-dev/) and sometimes volunteer as an instructor for [programming classes and workshops](https://www.canadalearningcode.ca).
 
 <!--
 **timuruski/timuruski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
