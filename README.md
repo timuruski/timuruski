@@ -1,6 +1,6 @@
-### Hey! 👋
+### Hi! 👋
 
-My name is Tim Uruski, my pronouns are he/him. I’m a programmer living in [Inglewood, Calgary, Alberta](https://en.wikipedia.org/wiki/Inglewood,_Calgary). During the day I work as a developer for [TMDB](https://themoviedb.org/). I occasionally blog at [tim.uru.ski](https://tim.uru.ski) and I spend my free time reading about science and mathematics, cooking and baking bread, and boxing. I previously co-organized the local Ruby developers group [YYC Ruby](https://www.meetup.com/YYC-dev/) and volunteered as an instructor for [programming classes and workshops](https://www.canadalearningcode.ca).
+I'm Tim Uruski (he/she/any)! I'm a programmer from Calgary, Alberta. I currently work for [themoviedb.org](https://themoviedb.org/). I previously worked for [Clio](https://clio.com) and helped organize [YYC Ruby](https://www.meetup.com/YYC-dev/). Some of my writing is at [tim.uru.ski](https://tim.uru.ski). When I'm not working on code, I'm doing something fun like cooking, learning math or Spanish, boxing or riding one wheeled electric skateboards.
 
 <!--
 **timuruski/timuruski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
