@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Tim Uruski (he/she/any)! I'm a programmer from Calgary, Alberta. I currently work for [themoviedb.org](https://themoviedb.org/). I previously worked for [Clio](https://clio.com) and helped organize [YYC Ruby](https://www.meetup.com/YYC-dev/). Some of my writing is at [tim.uru.ski](https://tim.uru.ski). When I'm not working on code, I'm doing something fun like cooking, learning math or Spanish, boxing or riding one wheeled electric skateboards.
+I'm Tim Uruski! (_he/she/any_) I'm a programmer from Calgary, Alberta. I currently work for [themoviedb.org](https://themoviedb.org/). I previously worked for [Clio](https://clio.com) and helped organize [YYC Ruby](https://www.meetup.com/YYC-dev/). Some of my writing is at [tim.uruski.dev](https://tim.uruski.dev). When I'm not working on code, I'm doing something fun like cooking, learning math or Spanish, boxing or riding a one wheeled electric skateboard.
 
 <!--
 **timuruski/timuruski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
